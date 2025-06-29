@@ -20,3 +20,7 @@ function exampleCubic(n) {
      }
 
      exampleLogarithmic(10)
+
+
+
+console.log("Hello world!!!")
